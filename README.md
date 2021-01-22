@@ -1,5 +1,9 @@
 # RedditClone
 Made this Clone using Django.
+# Demo
+
+Reddit is a website that allows you as a user to find just about anything online for django
+
 
 
 ## Installation instructions
